@@ -1,7 +1,7 @@
 # Nichecorner
 
 # Demo
-[Nichecorner](https://restaura-chi.vercel.app/)
+[Nichecorner](https://nichecorner.vercel.app/)
 
 # Screenshots
 
