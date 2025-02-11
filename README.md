@@ -1,17 +1,17 @@
-# Restaura restaurant
+# Nichecorner
 
 # Demo
-[Restaura](https://restaura-chi.vercel.app/)
+[Nichecorner](https://restaura-chi.vercel.app/)
 
 # Screenshots
 
-![Screenshot 2024-11-03 114246](https://github.com/user-attachments/assets/df6dbbfb-cfb2-4707-aab8-af64b790bcdc)
+![Image](https://github.com/user-attachments/assets/c26bf4d0-a5b5-4aa5-bddf-df4488c93a2b)
 
-![Screenshot 2024-11-03 114320](https://github.com/user-attachments/assets/1ed79e21-6898-4920-95e5-a734f946a3c0)
+![Image](https://github.com/user-attachments/assets/55a6b259-3695-4065-80c0-dc94bf28e2db)
 
-![Screenshot 2024-11-03 114335](https://github.com/user-attachments/assets/0273b7d6-6c4a-4d0e-a392-479808ba7916)
+![Image](https://github.com/user-attachments/assets/dc9bc87d-43aa-40c6-8598-f5ec27437671)
 
-![Screenshot 2024-11-03 121710](https://github.com/user-attachments/assets/8317579d-c558-4041-b1c2-d849516e632a)
+![Image](https://github.com/user-attachments/assets/ae894b76-96bc-49a4-b5f9-c60eda903847)
 
 
 
